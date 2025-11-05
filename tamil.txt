@@ -1,0 +1,7 @@
+1
+
+name: Idli Kadai
+
+director: Dhanush
+
+release year: 2025
