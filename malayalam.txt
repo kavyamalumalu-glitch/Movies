@@ -5,3 +5,11 @@ name: Lokah Chapter 1
 director: Dominic Arun
 
 release year: 2025
+
+2.
+
+name: Kantara Chapter 1
+
+director: Rishab shetty
+
+release year: 2025
